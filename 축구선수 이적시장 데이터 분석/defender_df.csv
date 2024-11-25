@@ -1,0 +1,309 @@
+,index,player_id,current_club_id,first_name,last_name,name,position,sub_position,age,market_value_in_eur,current_club_name,competition_name,Apps,Mins,Goals,Assists,Yel,Red,SpG,PS%,AerialsWon,MotM,Rating
+1,87275,258004,281,Rúben,Dias,Rúben Dias,Defender,Centre-Back,25,75000000,Manchester City,premier-league,22(4),1999.0,-,-,3,-,0.4,92.7,1.7,-,6.79
+2,18648,472423,631,Reece,James,Reece James,Defender,Right-Back,23,70000000,Chelsea FC,premier-league,14(2),1244.0,1,1,4,-,1.0,90.7,1.4,-,7.07
+4,17869,398073,583,Achraf,Hakimi,Achraf Hakimi,Defender,Right-Back,24,70000000,Paris Saint-Germain,ligue-1,23(5),2053.0,5,3,5,2,0.6,90.2,0.3,-,6.94
+6,130203,182712,27,João,Cancelo,João Cancelo,Defender,Right-Back,28,70000000,Bayern Munich,bundesliga,16(1),1279.0,2,1,3,1,1.0,86.8,1.6,1,7.05
+7,248086,314353,31,Trent,Alexander-Arnold,Trent Alexander-Arnold,Defender,Right-Back,24,70000000,Liverpool FC,premier-league,34(3),2932.0,2,9,5,-,1.1,78.7,0.5,2,7.11
+8,185470,475411,631,Wesley,Fofana,Wesley Fofana,Defender,Centre-Back,22,65000000,Chelsea FC,premier-league,12(3),1187.0,1,-,3,-,0.4,89.8,2.0,2,6.65
+11,92613,616341,583,Nuno,Mendes,Nuno Mendes,Defender,Left-Back,20,60000000,Paris Saint-Germain,ligue-1,18(5),1554.0,1,5,2,-,0.4,86.9,0.4,-,7.04
+12,56699,355915,148,Cristian,Romero,Cristian Romero,Defender,Centre-Back,24,60000000,Tottenham Hotspur,premier-league,26(1),2365.0,-,1,9,1,0.4,87.7,2.1,1,6.8
+18,349582,284857,631,Marc,Cucurella,Marc Cucurella,Defender,Left-Back,24,55000000,Chelsea FC,premier-league,21(3),1679.0,-,2,4,-,0.3,86.4,0.7,-,6.65
+23,91762,480762,985,Lisandro,Martínez,Lisandro Martínez,Defender,Centre-Back,24,50000000,Manchester United,premier-league,24(3),2117.0,1,-,6,-,0.4,87.3,1.2,-,6.84
+26,137240,495666,11,William,Saliba,William Saliba,Defender,Centre-Back,21,50000000,Arsenal FC,premier-league,27,2416.0,2,1,4,-,0.2,91.0,2.0,1,6.77
+27,56556,335721,11,Ben,White,Ben White,Defender,Right-Back,25,45000000,Arsenal FC,premier-league,36(2),3068.0,2,5,5,-,0.3,86.6,0.9,-,6.78
+29,105280,164770,985,Raphaël,Varane,Raphaël Varane,Defender,Centre-Back,29,40000000,Manchester United,premier-league,22(2),1917.0,-,-,1,-,0.3,86.5,1.8,-,6.64
+30,349468,282041,583,Presnel,Kimpembe,Presnel Kimpembe,Defender,Centre-Back,27,40000000,Paris Saint-Germain,ligue-1,9(2),731.0,-,-,3,-,0.4,94.0,1.2,-,6.61
+33,276623,435338,11,Gabriel,Magalhães,Gabriel Magalhães,Defender,Centre-Back,25,40000000,Arsenal FC,premier-league,38,3411.0,3,-,5,-,0.8,89.7,2.6,2,6.84
+34,377054,463603,631,Benoît,Badiashile,Benoît Badiashile,Defender,Centre-Back,21,40000000,Chelsea FC,premier-league,10(1),904.0,1,-,2,-,0.5,89.7,3.2,-,6.91
+36,206506,316125,631,Ben,Chilwell,Ben Chilwell,Defender,Left-Back,26,38000000,Chelsea FC,premier-league,15(8),1408.0,2,2,3,-,0.7,83.3,1.1,-,6.62
+37,110474,361093,762,Sven,Botman,Sven Botman,Defender,Centre-Back,22,38000000,Newcastle United,premier-league,35(1),3129.0,-,-,2,-,0.6,86.8,2.1,-,6.74
+38,370161,176553,281,Aymeric,Laporte,Aymeric Laporte,Defender,Centre-Back,28,38000000,Manchester City,premier-league,11(1),994.0,-,-,-,-,0.8,93.1,2.0,-,6.69
+39,341974,93128,631,Kalidou,Koulibaly,Kalidou Koulibaly,Defender,Centre-Back,31,35000000,Chelsea FC,premier-league,20(3),1801.0,2,1,5,1,0.5,87.1,1.4,-,6.83
+42,207945,392757,873,Marc,Guéhi,Marc Guéhi,Defender,Centre-Back,22,35000000,Crystal Palace,premier-league,37,3330.0,1,-,8,-,0.4,85.5,1.5,-,6.68
+44,331838,357119,31,Ibrahima,Konaté,Ibrahima Konaté,Defender,Centre-Back,23,35000000,Liverpool FC,premier-league,17(1),1551.0,-,-,5,-,0.6,87.2,2.6,-,6.79
+49,177189,157509,379,Kurt,Zouma,Kurt Zouma,Defender,Centre-Back,28,32000000,West Ham United,premier-league,24(1),1991.0,2,-,-,-,0.8,84.5,2.2,2,6.68
+50,108497,260827,873,Joachim,Andersen,Joachim Andersen,Defender,Centre-Back,26,32000000,Crystal Palace,premier-league,32,2784.0,1,-,8,-,0.7,79.7,2.7,-,6.79
+51,247696,203853,11,Oleksandr,Zinchenko,Oleksandr Zinchenko,Defender,Left-Back,26,32000000,Arsenal FC,premier-league,26(1),2135.0,1,2,3,-,1.0,87.8,1.9,1,6.86
+52,89845,357147,985,Diogo,Dalot,Diogo Dalot,Defender,Right-Back,23,32000000,Manchester United,premier-league,24(2),2155.0,1,2,6,-,0.8,80.5,1.5,2,6.96
+53,164118,175722,148,Eric,Dier,Eric Dier,Defender,Centre-Back,28,30000000,Tottenham Hotspur,premier-league,31(2),2817.0,2,1,3,-,0.5,85.9,2.4,1,6.66
+54,153373,177476,281,Nathan,Aké,Nathan Aké,Defender,Centre-Back,27,30000000,Manchester City,premier-league,22(4),1876.0,1,-,2,-,0.3,91.1,1.4,-,6.75
+55,139158,256178,31,Joe,Gomez,Joe Gomez,Defender,Centre-Back,25,30000000,Liverpool FC,premier-league,15(6),1461.0,-,-,3,-,0.3,86.6,2.2,-,6.69
+56,11957,177907,985,Harry,Maguire,Harry Maguire,Defender,Centre-Back,29,30000000,Manchester United,premier-league,8(8),762.0,-,-,4,-,0.2,85.4,1.6,-,6.59
+57,81605,186590,281,John,Stones,John Stones,Defender,Centre-Back,28,30000000,Manchester City,premier-league,21(2),1849.0,2,2,2,-,0.5,93.2,1.4,-,6.8
+58,191852,300716,11,Kieran,Tierney,Kieran Tierney,Defender,Left-Back,25,30000000,Arsenal FC,premier-league,6(21),779.0,-,1,-,-,0.3,78.1,0.2,-,6.25
+61,181948,284730,281,Manuel,Akanji,Manuel Akanji,Defender,Centre-Back,27,30000000,Manchester City,premier-league,24(5),2287.0,-,1,2,-,0.5,93.3,0.8,-,6.59
+64,229413,262226,1003,Timothy,Castagne,Timothy Castagne,Defender,Right-Back,27,28000000,Leicester City,premier-league,36(1),3257.0,2,3,3,-,0.5,80.7,1.5,1,6.71
+65,309293,730893,873,Tyrick,Mitchell,Tyrick Mitchell,Defender,Left-Back,23,28000000,Crystal Palace,premier-league,34(2),2896.0,-,2,5,1,0.2,72.4,0.7,-,6.53
+66,12139,183288,985,Luke,Shaw,Luke Shaw,Defender,Left-Back,27,28000000,Manchester United,premier-league,30(1),2558.0,1,2,8,-,0.5,86.0,1.5,1,6.9
+70,90415,386047,162,Axel,Disasi,Axel Disasi,Defender,Centre-Back,24,25000000,AS Monaco,ligue-1,37(1),3330.0,3,3,3,-,0.8,83.8,2.6,1,6.83
+73,257389,361914,379,Nayef,Aguerd,Nayef Aguerd,Defender,Centre-Back,26,25000000,West Ham United,premier-league,17(1),1596.0,2,-,4,-,0.7,78.9,1.8,-,6.67
+74,84058,503981,180,Tino,Livramento,Tino Livramento,Defender,Right-Back,20,25000000,Southampton FC,premier-league,0(2),26.0,-,-,-,-,-,73.7,-,-,6.45
+76,139484,331560,11,Takehiro,Tomiyasu,Takehiro Tomiyasu,Defender,Right-Back,24,25000000,Arsenal FC,premier-league,6(15),656.0,-,1,2,-,0.1,82.5,0.8,-,6.34
+77,139528,341051,180,Kyle,Walker-Peters,Kyle Walker-Peters,Defender,Right-Back,25,25000000,Southampton FC,premier-league,30(1),2653.0,1,-,4,-,0.4,78.9,0.5,1,6.58
+79,356905,341429,148,Davinson,Sánchez,Davinson Sánchez,Defender,Centre-Back,26,25000000,Tottenham Hotspur,premier-league,8(10),852.0,-,-,1,-,0.3,86.9,1.6,-,6.47
+80,192446,553875,148,Pedro,Porro,Pedro Porro,Defender,Right-Back,23,25000000,Tottenham Hotspur,premier-league,13(2),1138.0,3,3,-,-,1.7,75.3,0.1,1,6.96
+81,352677,413220,1003,James,Justin,James Justin,Defender,Right-Back,24,25000000,Leicester City,premier-league,14,1254.0,-,-,-,-,0.4,81.5,1.6,-,6.73
+82,254563,253677,405,Tyrone,Mings,Tyrone Mings,Defender,Centre-Back,29,25000000,Aston Villa,premier-league,35,3150.0,1,2,7,-,0.2,85.3,1.8,1,6.75
+86,116859,578391,543,Rayan,Aït-Nouri,Rayan Aït-Nouri,Defender,Left-Back,21,22000000,Wolverhampton Wanderers,premier-league,9(12),1070.0,1,-,4,-,0.5,81.9,0.7,-,6.51
+88,297265,173504,29,James,Tarkowski,James Tarkowski,Defender,Centre-Back,30,22000000,Everton FC,premier-league,38,3420.0,1,1,6,-,0.8,81.2,3.2,2,6.97
+89,208459,425334,405,Matty,Cash,Matty Cash,Defender,Right-Back,25,22000000,Aston Villa,premier-league,20(6),1821.0,-,1,4,-,0.3,78.6,0.5,1,6.56
+91,151373,126664,405,Lucas,Digne,Lucas Digne,Defender,Left-Back,29,22000000,Aston Villa,premier-league,18(10),1501.0,1,-,5,-,0.3,78.6,0.9,-,6.41
+92,231651,339340,985,Tyrell,Malacia,Tyrell Malacia,Defender,Left-Back,23,22000000,Manchester United,premier-league,14(8),1395.0,-,-,6,-,0.2,87.4,0.4,-,6.64
+93,86385,228948,379,Thilo,Kehrer,Thilo Kehrer,Defender,Centre-Back,26,22000000,West Ham United,premier-league,25(2),2231.0,-,2,4,-,0.3,85.4,1.3,-,6.5
+95,114151,339556,1148,Rico,Henry,Rico Henry,Defender,Left-Back,25,22000000,Brentford FC,premier-league,37,3244.0,-,2,4,-,0.6,75.0,1.1,-,6.64
+96,183651,346314,631,Trevoh,Chalobah,Trevoh Chalobah,Defender,Centre-Back,23,22000000,Chelsea FC,premier-league,18(7),1604.0,-,-,4,-,0.4,88.5,1.2,-,6.47
+98,43009,413403,405,Ezri,Konsa,Ezri Konsa,Defender,Centre-Back,25,22000000,Aston Villa,premier-league,37(1),3323.0,-,-,6,-,0.2,88.9,1.5,-,6.57
+99,329165,469050,543,Nathan,Collins,Nathan Collins,Defender,Centre-Back,21,22000000,Wolverhampton Wanderers,premier-league,19(7),1813.0,-,-,2,1,0.1,88.1,1.4,-,6.48
+100,228055,212847,1237,Adam,Webster,Adam Webster,Defender,Centre-Back,27,22000000,Brighton & Hove Albion,premier-league,23(4),1989.0,-,-,2,-,0.7,88.6,2.2,-,6.52
+101,185488,476352,703,Renan,Lodi,Renan Lodi,Defender,Left-Back,24,20000000,Nottingham Forest,premier-league,26(2),2222.0,-,1,7,-,0.5,71.3,0.6,-,6.54
+107,349900,292808,1003,Wout,Faes,Wout Faes,Defender,Centre-Back,24,20000000,Leicester City,premier-league,31,2787.0,1,2,4,1,0.4,85.8,1.9,-,6.66
+108,323171,193098,405,Álex,Moreno,Álex Moreno,Defender,Left-Back,29,20000000,Aston Villa,premier-league,14(5),1336.0,-,3,3,-,0.7,79.4,0.5,-,6.71
+111,308808,605184,417,Jean-Clair,Todibo,Jean-Clair Todibo,Defender,Centre-Back,23,20000000,OGC Nice,ligue-1,33(1),2873.0,-,-,2,2,0.4,88.9,1.1,1,6.79
+114,327788,368891,273,Arthur,Theate,Arthur Theate,Defender,Centre-Back,22,20000000,Stade Rennais FC,ligue-1,35,3129.0,4,-,5,-,0.9,89.6,2.0,1,6.71
+115,41909,349599,1237,Pervis,Estupiñán,Pervis Estupiñán,Defender,Left-Back,24,20000000,Brighton & Hove Albion,premier-league,31(4),2683.0,1,5,4,-,0.8,84.0,1.0,2,6.79
+116,19568,618472,1041,Castello,Lukeba,Castello Lukeba,Defender,Centre-Back,20,20000000,Olympique Lyon,ligue-1,33(1),2986.0,2,-,7,1,0.4,90.4,1.1,-,6.73
+118,331168,192765,148,Ben,Davies,Ben Davies,Defender,Left-Back,29,20000000,Tottenham Hotspur,premier-league,26(5),2290.0,2,2,4,-,0.5,83.2,2.3,-,6.63
+120,65456,348026,583,Nordi,Mukiele,Nordi Mukiele,Defender,Right-Back,25,20000000,Paris Saint-Germain,ligue-1,12(7),1133.0,-,3,-,-,0.6,88.4,1.1,1,6.76
+123,18019,410708,399,Pascal,Struijk,Pascal Struijk,Defender,Left-Back,23,20000000,Leeds United,premier-league,26(3),2205.0,2,1,5,-,0.6,79.5,2.1,-,6.66
+125,38261,231572,543,Nélson,Semedo,Nélson Semedo,Defender,Right-Back,29,18000000,Wolverhampton Wanderers,premier-league,31(5),2641.0,-,1,11,1,0.3,81.7,0.8,-,6.5
+128,88198,291200,703,Moussa,Niakhaté,Moussa Niakhaté,Defender,Centre-Back,26,18000000,Nottingham Forest,premier-league,14,1162.0,-,-,1,-,0.4,76.3,1.4,-,6.48
+129,182181,289446,29,Yerry,Mina,Yerry Mina,Defender,Centre-Back,28,18000000,Everton FC,premier-league,7,596.0,2,-,2,-,1.1,88.5,2.7,1,7.01
+130,332953,591949,1148,Aaron,Hickey,Aaron Hickey,Defender,Right-Back,20,18000000,Brentford FC,premier-league,23(3),1931.0,-,1,7,-,0.4,84.7,0.5,-,6.45
+132,368311,128901,29,Conor,Coady,Conor Coady,Defender,Centre-Back,29,18000000,Everton FC,premier-league,23(1),2096.0,1,1,2,-,0.2,85.1,1,-,6.45
+134,183604,343475,29,Ben,Godfrey,Ben Godfrey,Defender,Centre-Back,24,18000000,Everton FC,premier-league,10(3),803.0,-,1,2,-,0.5,66.4,1.2,-,6.32
+135,357225,563963,180,Mohammed,Salisu,Mohammed Salisu,Defender,Centre-Back,23,18000000,Southampton FC,premier-league,21(1),1973.0,-,1,5,-,0.9,76.8,2.5,-,6.78
+136,332367,503680,703,Neco,Williams,Neco Williams,Defender,Right-Back,21,18000000,Nottingham Forest,premier-league,20(11),1877.0,1,-,7,-,0.8,66.8,0.5,1,6.6
+137,140268,535955,244,Nuno,Tavares,Nuno Tavares,Defender,Left-Back,22,18000000,Olympique Marseille,ligue-1,23(8),2349.0,6,-,6,1,2.1,79.1,0.7,1,6.86
+138,176846,148153,1237,Lewis,Dunk,Lewis Dunk,Defender,Centre-Back,31,18000000,Brighton & Hove Albion,premier-league,36,3240.0,1,-,4,-,0.6,90.4,1.9,-,6.62
+139,307936,477758,985,Aaron,Wan-Bissaka,Aaron Wan-Bissaka,Defender,Right-Back,25,18000000,Manchester United,premier-league,16(3),1436.0,-,-,2,-,0.5,83.5,0.7,-,6.93
+141,303190,467563,180,Armel,Bella-Kotchap,Armel Bella-Kotchap,Defender,Centre-Back,21,18000000,Southampton FC,premier-league,24,1885.0,-,2,4,-,0.6,80.3,1.7,-,6.71
+142,380394,243028,180,Jan,Bednarek,Jan Bednarek,Defender,Centre-Back,26,18000000,Southampton FC,premier-league,1(2),96.0,-,-,-,-,-,90.9,-,-,6.32
+144,205158,258878,931,Tosin,Adarabioyo,Tosin Adarabioyo,Defender,Centre-Back,25,18000000,Fulham FC,premier-league,23(2),2084.0,1,-,4,-,0.6,82.4,2.4,-,6.74
+146,41255,328784,399,Robin,Koch,Robin Koch,Defender,Centre-Back,26,18000000,Leeds United,premier-league,36,3178.0,-,-,7,-,0.5,77.3,3.1,-,6.52
+148,371414,203348,244,Chancel,Mbemba,Chancel Mbemba,Defender,Centre-Back,28,17000000,Olympique Marseille,ligue-1,32(4),2850.0,5,-,2,-,0.8,84.4,2.0,1,6.82
+149,329183,469781,989,Marcos,Senesi,Marcos Senesi,Defender,Centre-Back,25,17000000,AFC Bournemouth,premier-league,29(2),2496.0,2,-,7,-,0.3,81.4,0.9,1,6.52
+150,231390,328658,1148,Kristoffer,Ajer,Kristoffer Ajer,Defender,Centre-Back,24,16000000,Brentford FC,premier-league,9,766.0,-,-,-,-,0.1,76.2,1.7,-,6.41
+152,375451,348623,29,Mason,Holgate,Mason Holgate,Defender,Centre-Back,26,16000000,Everton FC,premier-league,5(3),508.0,-,-,1,1,0.5,67.3,1.1,-,6.35
+154,116292,480116,989,Lloyd,Kelly,Lloyd Kelly,Defender,Centre-Back,24,15000000,AFC Bournemouth,premier-league,23,2041.0,-,2,3,-,0.1,81.4,1.6,2,6.59
+157,108746,272622,931,Issa,Diop,Issa Diop,Defender,Centre-Back,25,15000000,Fulham FC,premier-league,21(4),2009.0,1,-,2,-,0.1,87.1,1.3,-,6.66
+160,112609,250478,762,Matt,Targett,Matt Targett,Defender,Left-Back,27,15000000,Newcastle United,premier-league,6(11),603.0,-,-,1,-,0.1,81.7,0.6,-,6.39
+161,178559,184573,985,Victor,Lindelöf,Victor Lindelöf,Defender,Centre-Back,28,15000000,Manchester United,premier-league,14(6),1361.0,-,-,1,-,0.2,93.2,1.7,-,6.7
+163,19752,654539,273,Adrien,Truffert,Adrien Truffert,Defender,Left-Back,21,15000000,Stade Rennais FC,ligue-1,24(4),1962.0,-,6,2,-,0.4,80.8,1.2,1,6.83
+165,257437,366930,281,Sergio,Gómez,Sergio Gómez,Defender,Left-Back,22,15000000,Manchester City,premier-league,2(10),341.0,-,1,-,-,0.6,89.2,0.3,-,6.24
+166,91941,504148,1237,Tariq,Lamptey,Tariq Lamptey,Defender,Right-Back,22,15000000,Brighton & Hove Albion,premier-league,3(17),443.0,-,-,1,-,0.3,86.2,0.1,-,6.21
+168,322552,175639,244,Jonathan,Clauss,Jonathan Clauss,Defender,Right-Back,30,15000000,Olympique Marseille,ligue-1,32(2),2604.0,2,9,1,-,1.4,75.8,0.3,2,6.95
+169,258705,474800,826,Facundo,Medina,Facundo Medina,Defender,Centre-Back,23,15000000,RC Lens,ligue-1,32,2784.0,2,4,7,-,0.6,90.8,1.2,1,6.8
+171,82814,214056,1003,Daniel,Amartey,Daniel Amartey,Defender,Centre-Back,28,15000000,Leicester City,premier-league,18(2),1610.0,-,-,1,-,0.3,91.3,1.7,1,6.53
+172,149645,95424,281,Kyle,Walker,Kyle Walker,Defender,Right-Back,32,15000000,Manchester City,premier-league,22(5),1957.0,-,-,3,-,0.2,89.5,0.9,-,6.54
+174,354343,620322,1041,Malo,Gusto,Malo Gusto,Defender,Right-Back,19,15000000,Olympique Lyon,ligue-1,19(2),1602.0,-,1,1,-,0.3,85.1,0.4,1,6.86
+178,159326,369684,399,Rasmus,Kristensen,Rasmus Kristensen,Defender,Right-Back,25,15000000,Leeds United,premier-league,21(5),1962.0,3,1,4,-,0.5,69.3,1.3,-,6.63
+179,325419,263236,826,Kevin,Danso,Kevin Danso,Defender,Centre-Back,24,14000000,RC Lens,ligue-1,37,3234.0,1,2,7,1,0.6,90.1,2.3,2,6.94
+181,110055,238266,180,Duje,Caleta-Car,Duje Caleta-Car,Defender,Centre-Back,26,14000000,Southampton FC,premier-league,9(4),945.0,1,-,2,-,0.4,85.2,1.5,-,6.63
+182,150728,118534,29,Michael,Keane,Michael Keane,Defender,Centre-Back,29,14000000,Everton FC,premier-league,10(2),983.0,1,2,-,-,1.2,70.1,5.6,1,6.82
+183,136410,416108,417,Youcef,Atal,Youcef Atal,Defender,Right-Back,26,14000000,OGC Nice,ligue-1,8(10),777.0,1,-,1,-,0.7,83.6,0.5,1,6.76
+186,160222,424015,29,Nathan,Patterson,Nathan Patterson,Defender,Right-Back,21,14000000,Everton FC,premier-league,14(5),1274.0,-,-,3,-,0.4,79.9,0.5,-,6.51
+194,111874,95810,762,Kieran,Trippier,Kieran Trippier,Defender,Right-Back,32,13000000,Newcastle United,premier-league,38,3348.0,1,7,5,-,0.4,76.0,1.3,8,7.41
+196,204807,249730,162,Guillermo,Maripán,Guillermo Maripán,Defender,Centre-Back,28,13000000,AS Monaco,ligue-1,25(1),2160.0,3,-,4,1,0.6,87.5,1.8,1,6.76
+198,332164,483348,273,Djed,Spence,Djed Spence,Defender,Right-Back,22,13000000,Stade Rennais FC,ligue-1,0(4),5.0,-,-,-,-,0.3,55.6,0.3,-,6.0
+201,307812,468002,379,Ben,Johnson,Ben Johnson,Defender,Right-Back,22,12000000,West Ham United,premier-league,9(8),863.0,-,-,-,-,0.1,73.0,0.9,-,6.39
+203,208598,442248,1148,Ethan,Pinnock,Ethan Pinnock,Defender,Centre-Back,29,12000000,Brentford FC,premier-league,30,2700.0,3,-,-,-,0.5,80.2,3.5,2,7.11
+205,13474,215876,1003,Ricardo,Pereira,Ricardo Pereira,Defender,Right-Back,29,12000000,Leicester City,premier-league,5(5),453.0,1,1,2,-,0.2,79.5,0.5,-,6.38
+207,219533,134270,762,Dan,Burn,Dan Burn,Defender,Left-Back,30,12000000,Newcastle United,premier-league,35(3),3117.0,1,-,6,-,0.6,78.6,2.2,1,6.77
+208,159403,374139,399,Junior,Firpo,Junior Firpo,Defender,Left-Back,26,12000000,Leeds United,premier-league,14(5),1368.0,1,1,5,1,0.1,73.1,0.9,1,6.42
+209,132673,246291,12,Diego,Llorente,Diego Llorente,Defender,Centre-Back,29,12000000,AS Roma,serie-a,7(1),648.0,-,-,1,-,0.8,83.4,2.3,-,6.46
+210,332884,578539,873,Chris,Richards,Chris Richards,Defender,Centre-Back,22,12000000,Crystal Palace,premier-league,4(5),444.0,-,-,-,-,0.4,84.1,1.6,-,6.4
+212,177927,171679,13,Matt,Doherty,Matt Doherty,Defender,Right-Back,30,12000000,Atlético de Madrid,laliga,7(5),667.0,1,-,-,-,0.8,82.4,1.7,-,6.71
+213,26881,182904,148,Clément,Lenglet,Clément Lenglet,Defender,Centre-Back,27,12000000,Tottenham Hotspur,premier-league,24(2),2027.0,-,2,4,-,0.5,87.5,1.7,-,6.55
+214,184983,420465,1082,Tiago,Djaló,Tiago Djaló,Defender,Centre-Back,22,12000000,LOSC Lille,ligue-1,24(1),2022.0,2,-,7,-,0.6,93.1,1.1,1,6.69
+215,224480,126719,583,Juan,Bernat,Juan Bernat,Defender,Left-Back,29,12000000,Paris Saint-Germain,ligue-1,18(10),1648.0,1,4,1,-,0.3,93.3,0.2,-,6.61
+218,15193,276896,244,Samuel,Gigot,Samuel Gigot,Defender,Centre-Back,29,10000000,Olympique Marseille,ligue-1,24(2),1889.0,2,2,3,2,0.5,87.3,2.2,2,6.83
+219,347243,215118,405,Calum,Chambers,Calum Chambers,Defender,Centre-Back,27,10000000,Aston Villa,premier-league,2(12),345.0,-,-,2,-,0.1,79.6,0.2,-,6.11
+224,375466,349701,931,Antonee,Robinson,Antonee Robinson,Defender,Left-Back,25,10000000,Fulham FC,premier-league,35,3089.0,-,1,8,-,0.1,76.9,1.1,-,6.75
+226,191884,318523,180,Romain,Perraud,Romain Perraud,Defender,Left-Back,25,10000000,Southampton FC,premier-league,22(7),1839.0,2,2,4,-,1,74.7,0.5,1,6.46
+228,106659,203746,162,Ruben,Aguilar,Ruben Aguilar,Defender,Right-Back,29,10000000,AS Monaco,ligue-1,14(6),1176.0,-,-,3,-,0.2,84.4,0.6,-,6.34
+229,353666,505194,1003,Luke,Thomas,Luke Thomas,Defender,Left-Back,21,10000000,Leicester City,premier-league,11(6),1072.0,-,-,3,-,0.2,78.7,0.6,-,6.43
+230,140519,575998,244,Leonardo,Balerdi,Leonardo Balerdi,Defender,Centre-Back,23,10000000,Olympique Marseille,ligue-1,30(5),2643.0,-,1,9,1,0.3,84.1,2,-,6.73
+232,199579,111195,1237,Joël,Veltman,Joël Veltman,Defender,Right-Back,30,10000000,Brighton & Hove Albion,premier-league,25(6),2196.0,1,1,6,-,0.5,85.2,0.8,-,6.59
+233,161010,493702,417,Mattia,Viti,Mattia Viti,Defender,Centre-Back,20,10000000,OGC Nice,ligue-1,7(2),634.0,1,-,-,-,0.2,84.0,1.4,-,6.43
+234,355922,135343,762,Fabian,Schär,Fabian Schär,Defender,Centre-Back,31,10000000,Newcastle United,premier-league,36,3209.0,1,3,7,-,1.6,77.7,3.1,2,7.05
+236,220706,730581,368,Loïc,Badé,Loïc Badé,Defender,Centre-Back,22,10000000,Sevilla FC,laliga,1,90.0,-,1,1,-,2,88.1,2.0,-,6.57
+240,64288,297070,273,Hamari,Traoré,Hamari Traoré,Defender,Right-Back,30,10000000,Stade Rennais FC,ligue-1,28(3),2531.0,1,4,5,-,1,87.0,1.1,-,6.82
+241,372915,255906,703,Scott,McKenna,Scott McKenna,Defender,Centre-Back,26,10000000,Nottingham Forest,premier-league,19(1),1574.0,-,-,4,-,0.1,79.3,1.9,-,6.39
+242,356508,253341,11,Rob,Holding,Rob Holding,Defender,Centre-Back,27,10000000,Arsenal FC,premier-league,6(8),562.0,1,-,-,-,0.4,86.8,1.6,-,6.31
+245,368548,131225,1041,Nicolás,Tagliafico,Nicolás Tagliafico,Defender,Left-Back,30,9000000,Olympique Lyon,ligue-1,34,2995.0,1,3,5,-,0.7,85.8,1.3,1,6.86
+248,255880,297212,273,Joe,Rodon,Joe Rodon,Defender,Centre-Back,25,9000000,Stade Rennais FC,ligue-1,16,1418.0,1,-,2,1,0.4,90.1,2.8,1,6.65
+257,380912,346478,148,Japhet,Tanganga,Japhet Tanganga,Defender,Centre-Back,23,9000000,Tottenham Hotspur,premier-league,2(2),147.0,-,-,-,-,-,89.0,1.5,-,6.17
+264,248293,425918,11,Jakub,Kiwior,Jakub Kiwior,Defender,Centre-Back,22,8000000,Arsenal FC,premier-league,5(2),427.0,1,-,-,-,0.1,86.2,1.1,-,6.6
+267,231214,322655,380,Flavius,Daniliuc,Flavius Daniliuc,Defender,Centre-Back,21,8000000,US Salernitana 1919,serie-a,1(1),91.0,-,-,-,-,-,92.0,0.5,-,6.15
+269,280023,286384,244,Eric,Bailly,Eric Bailly,Defender,Centre-Back,28,8000000,Olympique Marseille,ligue-1,5(12),539.0,-,-,1,-,0.2,84.4,0.9,-,6.37
+270,89541,344596,162,Malang,Sarr,Malang Sarr,Defender,Centre-Back,23,8000000,AS Monaco,ligue-1,8(5),713.0,-,-,3,-,0.1,89.3,1.2,-,6.32
+271,62659,250844,667,Alexander,Djiku,Alexander Djiku,Defender,Centre-Back,28,8000000,RC Strasbourg Alsace,ligue-1,31,2681.0,1,2,8,1,0.5,80.8,3.0,1,6.92
+272,99009,57500,631,César,Azpilicueta,César Azpilicueta,Defender,Right-Back,33,8000000,Chelsea FC,premier-league,16(9),1526.0,-,-,3,-,0.4,83.7,1.2,-,6.52
+279,331789,346018,762,Jamal,Lewis,Jamal Lewis,Defender,Left-Back,24,8000000,Newcastle United,premier-league,0(2),9.0,-,-,-,-,-,85.7,-,-,5.95
+282,332620,532775,417,Melvin,Bard,Melvin Bard,Defender,Left-Back,22,8000000,OGC Nice,ligue-1,28(5),2460.0,-,-,6,-,0.2,82.3,1.0,-,6.75
+283,43043,415970,703,Joe,Worrall,Joe Worrall,Defender,Centre-Back,25,8000000,Nottingham Forest,premier-league,21(9),2217.0,1,-,6,-,0.2,78.5,1.8,-,6.58
+286,93004,711996,273,Warmed,Omari,Warmed Omari,Defender,Centre-Back,22,8000000,Stade Rennais FC,ligue-1,15(1),1363.0,-,-,2,1,0.2,92.9,2.3,-,6.72
+292,278570,183318,762,Jamaal,Lascelles,Jamaal Lascelles,Defender,Centre-Back,29,7000000,Newcastle United,premier-league,4(5),217.0,-,-,4,-,0.2,84.9,0.7,-,6.04
+293,42723,395083,416,Andreaw,Gravillon,Andreaw Gravillon,Defender,Centre-Back,24,7000000,Torino FC,serie-a,12(1),1040.0,-,-,3,-,0.6,76.0,1.1,-,6.56
+294,260054,674612,417,Youssouf,Ndayishimiye,Youssouf Ndayishimiye,Defender,Centre-Back,24,7000000,OGC Nice,ligue-1,6(4),566.0,1,-,2,-,0.8,90.5,0.5,-,6.68
+296,84215,646738,180,Juan,Larios,Juan Larios,Defender,Left-Back,18,7000000,Southampton FC,premier-league,2(3),152.0,-,-,-,-,-,80.0,0.4,-,6.4
+299,371647,206746,931,Kenny,Tete,Kenny Tete,Defender,Right-Back,27,7000000,Fulham FC,premier-league,29(2),2575.0,1,5,8,-,0.4,76.0,1.1,-,6.98
+306,234437,557613,995,Quentin,Merlin,Quentin Merlin,Defender,Left-Back,20,7000000,FC Nantes,ligue-1,22(2),1803.0,1,2,2,-,0.6,77.9,0.7,1,6.73
+307,234328,536507,703,Giulian,Biancone,Giulian Biancone,Defender,Right-Back,22,7000000,Nottingham Forest,premier-league,0(2),16.0,-,-,-,-,-,72.2,1,-,6.21
+311,232580,375137,162,Ismail,Jakobs,Ismail Jakobs,Defender,Left-Back,23,7000000,AS Monaco,ligue-1,9(23),1102.0,-,2,3,-,0.4,69.1,1.6,-,6.27
+319,282234,378953,667,Gerzino,Nyamsi,Gerzino Nyamsi,Defender,Centre-Back,25,6500000,RC Strasbourg Alsace,ligue-1,19(1),1580.0,1,1,4,1,0.7,84.5,1.9,1,6.44
+323,64485,313094,417,Jordan,Lotomba,Jordan Lotomba,Defender,Right-Back,24,6000000,OGC Nice,ligue-1,27(6),2456.0,-,2,4,-,0.4,85.2,0.8,2,6.82
+330,43319,439072,989,Matías,Viña,Matías Viña,Defender,Left-Back,25,6000000,AFC Bournemouth,premier-league,5(7),455.0,2,-,1,-,0.8,73.1,0.3,-,6.51
+331,303026,371814,31,Nathaniel,Phillips,Nathaniel Phillips,Defender,Centre-Back,25,6000000,Liverpool FC,premier-league,1(1),66.0,-,-,-,-,0.5,86.6,2,-,6.4
+332,311995,25557,583,Sergio,Ramos,Sergio Ramos,Defender,Centre-Back,36,6000000,Paris Saint-Germain,ligue-1,31(2),2709.0,2,1,3,1,0.6,94.8,1.7,-,6.82
+334,68414,690799,415,Anthony,Rouault,Anthony Rouault,Defender,Centre-Back,21,6000000,FC Toulouse,ligue-1,37,3316.0,2,-,2,1,0.5,87.5,2.4,2,6.65
+341,258788,480987,989,Chris,Mepham,Chris Mepham,Defender,Centre-Back,25,6000000,AFC Bournemouth,premier-league,24(2),2198.0,-,-,7,-,0.3,83.7,2,-,6.58
+342,374442,298091,1003,Harry,Souttar,Harry Souttar,Defender,Centre-Back,24,6000000,Leicester City,premier-league,11(1),991.0,-,1,2,-,0.7,81.4,3.2,-,6.64
+346,279814,282250,273,Birger,Meling,Birger Meling,Defender,Left-Back,28,6000000,Stade Rennais FC,ligue-1,10(17),1200.0,-,1,3,1,-,86.2,0.5,-,6.37
+347,308632,572326,273,Christopher,Wooh,Christopher Wooh,Defender,Centre-Back,21,6000000,Stade Rennais FC,ligue-1,0(1),3.0,-,-,-,-,-,100.0,-,-,6.02
+352,354478,649452,244,Issa,Kaboré,Issa Kaboré,Defender,Right-Back,21,5000000,Olympique Marseille,ligue-1,9(13),1022.0,1,-,1,-,0.4,81.6,0.1,-,6.57
+356,87128,250779,3911,Brendan,Chardonnet,Brendan Chardonnet,Defender,Centre-Back,28,5000000,Stade Brestois 29,ligue-1,27(3),2489.0,-,-,6,-,0.5,80.8,3.1,-,6.79
+357,151173,125314,1148,Pontus,Jansson,Pontus Jansson,Defender,Centre-Back,31,5000000,Brentford FC,premier-league,9(3),725.0,1,-,-,-,0.3,80.0,2,-,6.57
+362,327632,357158,29,Rúben,Vinagre,Rúben Vinagre,Defender,Left-Back,23,5000000,Everton FC,premier-league,0(2),24.0,-,-,-,-,-,66.7,-,-,6.2
+364,19148,538998,583,Timothée,Pembélé,Timothée Pembélé,Defender,Right-Back,20,5000000,Paris Saint-Germain,ligue-1,4(1),265.0,-,1,-,-,0.6,80.6,0.6,-,6.33
+366,16950,354352,667,Frédéric,Guilbert,Frédéric Guilbert,Defender,Right-Back,28,5000000,RC Strasbourg Alsace,ligue-1,17(1),1465.0,-,1,3,-,0.7,76.6,1.6,-,6.84
+369,224448,126710,931,Layvin,Kurzawa,Layvin Kurzawa,Defender,Left-Back,30,5000000,Fulham FC,premier-league,2(1),138.0,-,-,1,-,-,70.4,-,-,6.07
+375,210329,702441,1041,Sinaly,Diomandé,Sinaly Diomandé,Defender,Centre-Back,21,5000000,Olympique Lyon,ligue-1,22(2),1959.0,-,-,2,1,0.4,85.6,2.3,-,6.75
+377,353507,485965,82,Nicolas,Cozza,Nicolas Cozza,Defender,Left-Back,23,5000000,VfL Wolfsburg,bundesliga,14(3),1275.0,2,1,3,-,0.4,73.4,1.2,-,6.54
+381,85800,163744,180,Jack,Stephens,Jack Stephens,Defender,Centre-Back,28,5000000,Southampton FC,premier-league,0(2),46.0,-,-,-,-,-,88.5,0.5,-,6.15
+382,160658,460629,667,Colin,Dagba,Colin Dagba,Defender,Right-Back,24,5000000,RC Strasbourg Alsace,ligue-1,12(9),960.0,-,-,3,-,0.2,85.0,0.1,-,6.44
+387,115094,384859,995,Fabien,Centonze,Fabien Centonze,Defender,Right-Back,26,5000000,FC Nantes,ligue-1,19(4),1693.0,-,-,4,-,0.6,79.3,1.4,1,7.06
+388,268158,75067,399,Liam,Cooper,Liam Cooper,Defender,Centre-Back,31,5000000,Leeds United,premier-league,16(2),1427.0,1,-,5,-,0.6,78.7,3.1,-,6.62
+391,301361,283227,415,Rasmus,Nicolaisen,Rasmus Nicolaisen,Defender,Centre-Back,25,5000000,FC Toulouse,ligue-1,34,2997.0,-,2,5,1,0.4,84.3,3.4,1,6.94
+392,135524,362108,1082,Gabriel,Gudmundsson,Gabriel Gudmundsson,Defender,Left-Back,23,5000000,LOSC Lille,ligue-1,9(9),832.0,-,-,3,-,0.4,83.9,0.7,-,6.53
+393,135395,357072,969,Faitout,Maouassa,Faitout Maouassa,Defender,Left-Back,24,5000000,Montpellier HSC,ligue-1,23(10),1935.0,5,5,-,-,1.0,69.7,0.4,-,6.75
+399,117378,708678,290,Isaak,Touré,Isaak Touré,Defender,Centre-Back,19,5000000,AJ Auxerre,ligue-1,0(5),66.0,-,-,1,-,-,84.2,0.2,-,6.02
+405,117542,798404,3524,Alidu,Seidu,Alidu Seidu,Defender,Centre-Back,22,4500000,Clermont Foot 63,ligue-1,28,2463.0,-,-,10,1,0.2,86.8,0.9,-,6.75
+406,160718,463605,1082,Bafodé,Diakité,Bafodé Diakité,Defender,Right-Back,21,4500000,LOSC Lille,ligue-1,29(4),2656.0,3,-,6,-,0.6,89.8,1.2,1,6.66
+407,131610,215114,1421,Thomas,Foket,Thomas Foket,Defender,Right-Back,28,4500000,Stade Reims,ligue-1,23(1),1983.0,-,1,-,-,0.1,82.9,0.5,-,6.61
+414,376418,410185,714,Ronaël,Pierre-Gabriel,Ronaël Pierre-Gabriel,Defender,Right-Back,24,4500000,RCD Espanyol Barcelona,laliga,7(7),653.0,-,1,3,-,0.2,80.8,0.6,-,6.5
+416,245215,126557,826,Jonathan,Gradit,Jonathan Gradit,Defender,Centre-Back,30,4500000,RC Lens,ligue-1,33,2830.0,1,3,7,-,0.2,90.2,1.5,-,6.95
+419,39652,270051,995,Andrei,Girotto,Andrei Girotto,Defender,Centre-Back,30,4000000,FC Nantes,ligue-1,36,3153.0,1,1,7,-,0.8,83.0,2.2,4,7.09
+421,11678,170646,237,Ludwig,Augustinsson,Ludwig Augustinsson,Defender,Left-Back,28,4000000,RCD Mallorca,laliga,1(2),80.0,-,-,1,-,0.7,63.3,1.3,-,6.37
+424,259958,633530,989,Jordan,Zemura,Jordan Zemura,Defender,Left-Back,23,4000000,AFC Bournemouth,premier-league,17(2),1457.0,-,1,1,-,0.2,69.3,0.4,-,6.49
+426,358302,842341,969,Maxime,Estève,Maxime Estève,Defender,Centre-Back,20,4000000,Montpellier HSC,ligue-1,18(5),1645.0,-,-,3,-,0.3,81.7,1.3,2,6.53
+428,92345,564529,1003,Victor,Kristiansen,Victor Kristiansen,Defender,Left-Back,20,4000000,Leicester City,premier-league,11(1),895.0,-,1,2,-,0.3,69.5,0.8,-,6.44
+430,186863,709482,1095,Thierno,Baldé,Thierno Baldé,Defender,Right-Back,20,4000000,ESTAC Troyes,ligue-1,25(6),2161.0,-,1,1,-,0.2,83.1,0.3,-,6.38
+432,247487,184528,762,Emil,Krafth,Emil Krafth,Defender,Right-Back,28,4000000,Newcastle United,premier-league,0(1),1.0,-,-,-,-,-,-,-,-,6.0
+434,376191,395685,1158,Gédéon,Kalulu,Gédéon Kalulu,Defender,Right-Back,25,4000000,FC Lorient,ligue-1,28(1),2442.0,-,4,6,-,0.3,82.0,1.0,1,6.69
+442,284887,711969,273,Lorenz,Assignon,Lorenz Assignon,Defender,Right-Back,22,4000000,Stade Rennais FC,ligue-1,2(10),254.0,-,1,3,-,0.3,83.6,0.7,-,6.2
+443,232359,364857,969,Falaye,Sacko,Falaye Sacko,Defender,Right-Back,27,4000000,Montpellier HSC,ligue-1,29(6),2580.0,1,3,3,-,0.2,81.5,0.5,-,6.52
+447,33712,112988,931,Cédric,Soares,Cédric Soares,Defender,Right-Back,31,4000000,Fulham FC,premier-league,0(2),28.0,-,-,-,-,-,90.0,-,-,6.07
+448,161049,496706,1158,Montassar,Talbi,Montassar Talbi,Defender,Centre-Back,24,4000000,FC Lorient,ligue-1,38,3420.0,1,2,-,-,0.2,89.1,2.4,1,6.79
+449,105971,182875,995,Jean-Charles,Castelletto,Jean-Charles Castelletto,Defender,Centre-Back,27,4000000,FC Nantes,ligue-1,30(2),2569.0,-,-,3,-,0.3,82.8,2.4,-,6.69
+451,354126,569383,162,Chrislain,Matsima,Chrislain Matsima,Defender,Centre-Back,20,4000000,AS Monaco,ligue-1,2(4),223.0,-,-,-,-,0.2,85.0,0.5,-,6.13
+452,209074,485960,3911,Lilian,Brassier,Lilian Brassier,Defender,Centre-Back,23,4000000,Stade Brestois 29,ligue-1,35(1),3094.0,-,-,5,-,0.6,78.2,1.7,-,6.66
+454,114478,344864,3911,Jean-Kévin,Duverne,Jean-Kévin Duverne,Defender,Left-Back,25,4000000,Stade Brestois 29,ligue-1,27(7),2514.0,-,-,2,-,0.1,73.9,1,-,6.54
+463,346480,198516,703,Harry,Toffolo,Harry Toffolo,Defender,Left-Back,27,3500000,Nottingham Forest,premier-league,9(10),935.0,-,-,2,-,0.3,65.3,0.7,-,6.28
+464,288745,37838,1041,Dejan,Lovren,Dejan Lovren,Defender,Centre-Back,33,3500000,Olympique Lyon,ligue-1,17,1462.0,1,-,2,-,0.8,88.2,2.8,-,6.91
+470,371747,211637,969,Kiki,Kouyaté,Kiki Kouyaté,Defender,Centre-Back,25,3500000,Montpellier HSC,ligue-1,15,1259.0,-,-,5,-,0.7,81.7,2.9,2,7.1
+472,195226,47713,969,Mamadou,Sakho,Mamadou Sakho,Defender,Centre-Back,32,3500000,Montpellier HSC,ligue-1,7(8),762.0,1,-,2,-,0.2,86.8,1.5,-,6.3
+478,346609,201737,969,Christopher,Jullien,Christopher Jullien,Defender,Centre-Back,29,3500000,Montpellier HSC,ligue-1,30,2696.0,-,2,5,-,0.6,83.1,2.9,-,6.74
+486,41950,352392,667,Lucas,Perrin,Lucas Perrin,Defender,Centre-Back,24,3500000,RC Strasbourg Alsace,ligue-1,18(8),1763.0,-,1,4,-,0.3,82.2,1.4,-,6.59
+493,93097,805908,3911,Bradley,Locko,Bradley Locko,Defender,Left-Back,20,3500000,Stade Brestois 29,ligue-1,2(5),270.0,-,-,-,-,-,83.0,0.4,-,6.44
+500,259334,531957,399,Cody,Drameh,Cody Drameh,Defender,Right-Back,21,3000000,Leeds United,premier-league,1,70.0,-,-,-,-,-,77.4,1.0,-,6.51
+504,324951,249356,989,Jack,Stacey,Jack Stacey,Defender,Right-Back,26,3000000,AFC Bournemouth,premier-league,3(7),294.0,-,-,2,-,0.1,60.4,0.5,-,6.08
+507,292209,72857,969,Pedro,Mendes,Pedro Mendes,Defender,Centre-Back,32,3000000,Montpellier HSC,ligue-1,0(1),12.0,-,-,-,-,-,33.3,1,-,5.72
+513,269065,94005,244,Sead,Kolasinac,Sead Kolasinac,Defender,Left-Back,29,3000000,Olympique Marseille,ligue-1,26(7),2219.0,4,1,3,-,0.7,86.3,1.2,2,6.74
+514,301314,282199,1095,Erik,Palmer-Brown,Erik Palmer-Brown,Defender,Centre-Back,25,3000000,ESTAC Troyes,ligue-1,36(2),3194.0,-,-,5,-,0.3,84.7,1.5,-,6.34
+515,346503,198709,1420,Cédric,Hountondji,Cédric Hountondji,Defender,Centre-Back,28,3000000,Angers SCO,ligue-1,35(1),3097.0,-,-,7,-,0.3,86.8,1.8,-,6.37
+517,346957,208172,3524,Mateusz,Wieteska,Mateusz Wieteska,Defender,Centre-Back,25,3000000,Clermont Foot 63,ligue-1,35,3120.0,-,1,7,1,0.5,82.8,2.2,1,6.61
+520,333403,683895,1421,Emmanuel,Agbadou,Emmanuel Agbadou,Defender,Centre-Back,25,3000000,Stade Reims,ligue-1,27(2),2390.0,-,3,5,3,0.8,86.0,2.1,1,6.79
+530,366319,85177,873,Nathaniel,Clyne,Nathaniel Clyne,Defender,Right-Back,31,3000000,Crystal Palace,premier-league,19(3),1642.0,-,-,3,-,-,80.8,0.3,-,6.29
+534,206251,296356,1420,Souleyman,Doumbia,Souleyman Doumbia,Defender,Left-Back,26,3000000,Angers SCO,ligue-1,21(3),1793.0,-,-,2,1,0.3,80.5,0.8,-,6.39
+539,160967,491616,1095,Jackson,Porozo,Jackson Porozo,Defender,Centre-Back,22,3000000,ESTAC Troyes,ligue-1,17(5),1616.0,2,-,3,-,1,81.6,2.1,1,6.59
+543,154915,206717,667,Eduard,Sobol,Eduard Sobol,Defender,Left-Back,27,3000000,RC Strasbourg Alsace,ligue-1,9(6),869.0,-,1,2,-,0.3,76.6,0.6,-,6.44
+544,154398,194460,417,Joe,Bryan,Joe Bryan,Defender,Left-Back,29,3000000,OGC Nice,ligue-1,2(4),177.0,-,-,3,-,0.2,80.7,-,-,6.17
+545,362208,42412,1003,Jonny,Evans,Jonny Evans,Defender,Centre-Back,34,3000000,Leicester City,premier-league,12(1),1053.0,-,-,1,-,0.1,87.5,2,1,6.49
+548,134466,327863,290,Akim,Zedadka,Akim Zedadka,Defender,Right-Back,27,3000000,AJ Auxerre,ligue-1,4(4),353.0,1,-,1,-,0.4,84.8,0.6,-,6.39
+551,377706,554251,1095,Yasser,Larouci,Yasser Larouci,Defender,Left-Back,21,3000000,ESTAC Troyes,ligue-1,21(9),1800.0,1,1,1,-,0.3,77.0,0.7,-,6.45
+552,56055,162029,762,Javier,Manquillo,Javier Manquillo,Defender,Right-Back,28,3000000,Newcastle United,premier-league,0(4),34.0,-,-,-,-,-,84.0,-,-,6.19
+555,380807,324223,180,James,Bree,James Bree,Defender,Right-Back,25,3000000,Southampton FC,premier-league,4(1),368.0,-,-,1,-,0.2,77.7,1.8,-,6.38
+556,222460,90836,703,Steve,Cook,Steve Cook,Defender,Centre-Back,31,3000000,Nottingham Forest,premier-league,11(1),959.0,-,-,4,-,0.3,80.7,2.3,-,6.37
+557,42538,386057,1158,Julien,Laporte,Julien Laporte,Defender,Centre-Back,29,3000000,FC Lorient,ligue-1,19(1),1656.0,-,-,1,-,0.3,85.4,1.6,-,6.64
+558,231490,332560,826,Deiver,Machado,Deiver Machado,Defender,Left-Back,29,3000000,RC Lens,ligue-1,26(7),2206.0,4,3,5,1,0.5,85.7,0.5,2,6.72
+564,377828,570817,1421,Maxime,Busi,Maxime Busi,Defender,Right-Back,23,3000000,Stade Reims,ligue-1,11(10),1041.0,-,1,4,-,0.1,75.3,0.7,1,6.34
+577,16586,337798,1095,Abdu,Conté,Abdu Conté,Defender,Left-Back,24,2500000,ESTAC Troyes,ligue-1,15(4),1317.0,1,2,1,-,0.2,79.8,0.8,-,6.46
+579,22098,29241,631,Thiago,Silva,Thiago Silva,Defender,Centre-Back,38,2500000,Chelsea FC,premier-league,26(1),2352.0,-,2,2,-,0.6,91.3,2.3,1,6.95
+581,153036,170544,3911,Christophe,Hérelle,Christophe Hérelle,Defender,Centre-Back,30,2500000,Stade Brestois 29,ligue-1,12(4),1060.0,-,-,2,-,0.2,86.3,0.7,-,6.38
+586,82938,221873,415,Mikkel,Desler,Mikkel Desler,Defender,Right-Back,27,2500000,FC Toulouse,ligue-1,26(1),2262.0,1,2,4,1,0.4,86.2,0.9,1,6.8
+587,343287,121477,543,Craig,Dawson,Craig Dawson,Defender,Centre-Back,32,2500000,Wolverhampton Wanderers,premier-league,8,720.0,-,-,2,-,0.8,80.0,1.8,-,6.44
+589,343092,119269,931,Shane,Duffy,Shane Duffy,Defender,Centre-Back,30,2500000,Fulham FC,premier-league,0(5),17.0,-,-,-,-,0.2,80.0,0.4,-,5.79
+591,45302,923831,1082,Leny,Yoro,Leny Yoro,Defender,Centre-Back,17,2500000,LOSC Lille,ligue-1,8(5),768.0,-,-,-,-,0.2,91.0,0.9,-,6.44
+596,44548,566823,3911,Achraf,Dari,Achraf Dari,Defender,Centre-Back,23,2500000,Stade Brestois 29,ligue-1,15(3),1317.0,1,-,1,-,0.2,79.6,2.1,-,6.45
+597,115456,406008,1420,Yan,Valery,Yan Valery,Defender,Right-Back,23,2500000,Angers SCO,ligue-1,1,46.0,-,-,-,-,-,68.2,1,-,5.74
+603,166088,842338,969,Enzo,Tchato,Enzo Tchato,Defender,Right-Back,20,2500000,Montpellier HSC,ligue-1,11(10),1094.0,1,1,1,-,0.2,76.4,0.8,-,6.32
+608,357051,388795,1147,Oumar,Gonzalez,Oumar Gonzalez,Defender,Centre-Back,24,2500000,AC Ajaccio,ligue-1,29(1),2579.0,-,-,10,-,0.4,81.8,2.1,-,6.39
+611,243783,92571,379,Aaron,Cresswell,Aaron Cresswell,Defender,Left-Back,33,2500000,West Ham United,premier-league,24(4),2237.0,-,1,3,-,0.3,81.4,1,-,6.61
+619,159739,391005,1148,Mads,Roerslev,Mads Roerslev,Defender,Right-Back,23,2200000,Brentford FC,premier-league,12(8),1103.0,-,-,-,-,0.2,64.6,0.4,-,6.43
+622,253450,220878,969,Issiaga,Sylla,Issiaga Sylla,Defender,Left-Back,28,2000000,Montpellier HSC,ligue-1,16(1),1376.0,-,-,3,-,0.5,78.8,0.7,1,6.65
+626,47546,26485,1041,Jérôme,Boateng,Jérôme Boateng,Defender,Centre-Back,34,2000000,Olympique Lyon,ligue-1,6(2),432.0,-,-,-,-,-,80.6,0.9,-,6.33
+627,117554,804711,1420,Ousmane,Camara,Ousmane Camara,Defender,Centre-Back,19,2000000,Angers SCO,ligue-1,0(3),22.0,-,-,1,-,0.3,100.0,-,-,6.08
+643,178253,179806,1420,Miha,Blazic,Miha Blazic,Defender,Centre-Back,29,2000000,Angers SCO,ligue-1,22(2),1980.0,2,-,4,-,0.3,87.6,1.9,-,6.42
+645,151925,140191,989,Ryan,Fredericks,Ryan Fredericks,Defender,Right-Back,30,2000000,AFC Bournemouth,premier-league,5(7),531.0,-,-,1,-,-,69.9,0.4,-,6.13
+646,166009,786436,667,Ismaël,Doukouré,Ismaël Doukouré,Defender,Centre-Back,19,2000000,RC Strasbourg Alsace,ligue-1,25(3),2301.0,1,1,5,-,0.3,83.2,1.1,-,6.65
+648,281576,351843,1095,Yoann,Salmier,Yoann Salmier,Defender,Centre-Back,30,2000000,ESTAC Troyes,ligue-1,31(1),2652.0,1,-,5,1,0.4,83.0,1.7,-,6.43
+650,6800,67420,399,Luke,Ayling,Luke Ayling,Defender,Right-Back,31,2000000,Leeds United,premier-league,22(7),2049.0,2,1,3,-,0.8,69.2,1.6,-,6.55
+651,308427,537127,969,Théo,Sainte-Luce,Théo Sainte-Luce,Defender,Left-Back,24,2000000,Montpellier HSC,ligue-1,7(2),535.0,1,1,-,-,0.3,84.4,0.7,-,6.72
+653,293343,92572,873,Joel,Ward,Joel Ward,Defender,Right-Back,33,2000000,Crystal Palace,premier-league,24(4),2256.0,1,-,6,-,0.3,75.4,2.1,-,6.65
+654,90397,385105,415,Gabriel,Suazo,Gabriel Suazo,Defender,Left-Back,25,2000000,FC Toulouse,ligue-1,14(4),1258.0,-,1,1,-,0.1,84.2,0.5,-,6.63
+661,233078,397171,290,Gideon,Mensah,Gideon Mensah,Defender,Left-Back,24,2000000,AJ Auxerre,ligue-1,26,2263.0,-,-,5,-,0.2,79.6,0.8,2,6.73
+662,328127,391720,1158,Igor,Silva,Igor Silva,Defender,Right-Back,26,2000000,FC Lorient,ligue-1,5(2),457.0,-,-,2,1,0.6,85.3,0.6,1,6.53
+668,7420,74810,1148,Ben,Mee,Ben Mee,Defender,Centre-Back,33,1800000,Brentford FC,premier-league,37,3272.0,3,2,2,-,0.8,77.1,3.6,2,6.98
+671,380616,274484,1147,Youssouf,Koné,Youssouf Koné,Defender,Left-Back,27,1800000,AC Ajaccio,ligue-1,12(1),922.0,-,-,4,-,0.1,78.9,0.3,-,6.47
+681,226790,170961,667,Thomas,Delaine,Thomas Delaine,Defender,Left-Back,30,1500000,RC Strasbourg Alsace,ligue-1,13(4),1078.0,-,2,3,-,0.4,70.0,0.7,-,6.55
+687,153214,174196,3911,Kenny,Lala,Kenny Lala,Defender,Right-Back,31,1500000,Stade Brestois 29,ligue-1,16(1),1419.0,-,2,4,-,0.7,77.9,0.5,-,6.93
+694,30885,61841,989,Adam,Smith,Adam Smith,Defender,Right-Back,31,1500000,AFC Bournemouth,premier-league,34(3),2950.0,-,1,11,-,0.1,75.3,0.8,-,6.32
+698,83785,375881,1147,Ismaël,Diallo,Ismaël Diallo,Defender,Left-Back,25,1500000,AC Ajaccio,ligue-1,25(3),2183.0,-,-,9,1,0.1,76.0,0.9,-,6.36
+703,116173,461906,3522,João,Moutinho,João Moutinho,Defender,Left-Back,24,1500000,Spezia Calcio,serie-a,20(11),1787.0,-,2,3,-,0.5,83.9,0.3,-,6.5
+704,110838,569388,1147,Clément,Vidal,Clément Vidal,Defender,Centre-Back,22,1500000,AC Ajaccio,ligue-1,21(5),1901.0,1,-,5,1,0.5,77.4,2.0,1,6.29
+717,92267,557939,3524,Neto,Borges,Neto Borges,Defender,Left-Back,26,1200000,Clermont Foot 63,ligue-1,33,2840.0,3,1,2,2,0.7,79.5,1.1,4,6.91
+719,149906,102744,995,Sébastien,Corchia,Sébastien Corchia,Defender,Right-Back,32,1200000,FC Nantes,ligue-1,6(16),775.0,-,1,3,-,0.2,76.9,0.5,-,6.26
+720,161736,611195,415,Oliver,Zandén,Oliver Zandén,Defender,Left-Back,21,1200000,FC Toulouse,ligue-1,1(4),143.0,-,-,-,-,0.4,68.5,0.4,-,6.25
+722,348073,238716,290,Théo,Pellenard,Théo Pellenard,Defender,Centre-Back,28,1200000,AJ Auxerre,ligue-1,1(1),99.0,-,-,-,-,0.5,57.9,0.5,-,6.15
+729,284967,770895,826,Ismaël,Boura,Ismaël Boura,Defender,Left-Back,22,1200000,RC Lens,ligue-1,0(9),85.0,-,-,-,-,0.2,80.4,0.1,-,6.25
+730,135636,369267,3524,Maximiliano,Caufriez,Maximiliano Caufriez,Defender,Centre-Back,25,1200000,Clermont Foot 63,ligue-1,25(1),2224.0,1,-,8,1,0.5,88.7,0.8,1,6.65
+734,334516,14086,405,Ashley,Young,Ashley Young,Defender,Right-Back,37,1000000,Aston Villa,premier-league,23(6),2039.0,1,-,7,-,0.5,77.5,0.5,-,6.58
+737,379700,131827,33,Jere,Uronen,Jere Uronen,Defender,Left-Back,28,1000000,FC Schalke 04,bundesliga,3(3),298.0,-,1,-,-,0.2,81.5,0.3,-,6.43
+740,260181,794758,415,Warren,Kamanzi,Warren Kamanzi,Defender,Right-Back,22,1000000,FC Toulouse,ligue-1,7(4),662.0,-,-,1,-,0.2,88.1,0.3,-,6.45
+741,146077,48002,379,Angelo,Ogbonna,Angelo Ogbonna,Defender,Centre-Back,34,1000000,West Ham United,premier-league,13(3),1236.0,-,-,-,-,0.2,80.0,2.2,-,6.53
+742,124155,61592,873,James,Tomkins,James Tomkins,Defender,Centre-Back,33,1000000,Crystal Palace,premier-league,3(3),337.0,1,-,1,1,0.5,80.7,1,-,6.13
+744,117664,951579,1041,Saël,Kumbedi,Saël Kumbedi,Defender,Right-Back,17,1000000,Olympique Lyon,ligue-1,14(6),1317.0,-,2,8,-,0.5,83.6,0.4,-,6.61
+750,200998,145466,931,Tim,Ream,Tim Ream,Defender,Centre-Back,35,1000000,Fulham FC,premier-league,33,2899.0,1,-,2,-,0.1,87.0,1.5,1,6.66
+751,232632,379168,3911,Noah,Fadiga,Noah Fadiga,Defender,Right-Back,23,1000000,Stade Brestois 29,ligue-1,16(5),1312.0,1,-,2,-,0.5,79.9,0.4,1,6.52
+752,176540,139279,995,Nicolas,Pallois,Nicolas Pallois,Defender,Centre-Back,35,1000000,FC Nantes,ligue-1,26,2217.0,1,-,2,1,0.3,83.8,1.3,1,6.67
+765,68510,717118,1158,Darlin,Yongwa,Darlin Yongwa,Defender,Left-Back,22,1000000,FC Lorient,ligue-1,8(6),778.0,1,1,2,-,0.6,82.1,0.2,1,6.43
+766,79096,126656,1420,Faouzi,Ghoulam,Faouzi Ghoulam,Defender,Left-Back,31,1000000,Angers SCO,ligue-1,6(1),482.0,-,-,-,-,0.1,80.2,1.3,-,6.55
+769,68446,701057,281,Rico,Lewis,Rico Lewis,Defender,Right-Back,18,1000000,Manchester City,premier-league,10(4),905.0,-,-,1,-,0.4,92.2,-,-,6.56
+774,17779,394906,995,Charles,Traoré,Charles Traoré,Defender,Left-Back,30,800000,FC Nantes,ligue-1,6(6),482.0,-,-,2,-,-,77.2,0.7,-,6.25
+775,208437,422986,1420,Halid,Sabanovic,Halid Sabanovic,Defender,Right-Back,23,800000,Angers SCO,ligue-1,8(7),638.0,2,-,1,1,0.3,82.5,0.3,-,6.23
+777,371275,199704,1421,Yunis,Abdelhamid,Yunis Abdelhamid,Defender,Centre-Back,35,800000,Stade Reims,ligue-1,37,3330.0,1,2,6,-,0.9,83.1,2.5,1,6.94
+779,165863,694509,415,Moussa,Diarra,Moussa Diarra,Defender,Left-Back,22,800000,FC Toulouse,ligue-1,12(11),1222.0,-,1,-,-,-,83.9,0.7,-,6.35
+780,68589,750903,995,Jaouen,Hadjam,Jaouen Hadjam,Defender,Left-Back,19,800000,FC Nantes,ligue-1,8(5),806.0,-,1,1,-,0.5,81.1,0.5,-,6.82
+786,224949,134277,290,Julian,Jeanvier,Julian Jeanvier,Defender,Centre-Back,30,800000,AJ Auxerre,ligue-1,20(2),1763.0,1,-,3,1,0.4,83.1,1.1,-,6.4
+796,110657,413245,1147,Fernand,Mayembo,Fernand Mayembo,Defender,Centre-Back,26,700000,AC Ajaccio,ligue-1,8(3),707.0,-,-,1,-,0.4,85.9,1.4,-,6.44
+797,22396,33829,1082,José,Fonte,José Fonte,Defender,Centre-Back,39,700000,LOSC Lille,ligue-1,30(1),2593.0,1,-,7,-,0.5,90.3,2.0,1,6.58
+798,299531,229012,290,Kenji-Van,Boto,Kenji-Van Boto,Defender,Left-Back,26,700000,AJ Auxerre,ligue-1,2,180.0,-,-,-,-,1.5,71.7,0.5,-,6.49
+807,367706,118303,3524,Mehdi,Zeffane,Mehdi Zeffane,Defender,Right-Back,30,500000,Clermont Foot 63,ligue-1,7(11),656.0,1,1,1,-,0.4,78.6,0.2,-,6.46
+814,174381,91473,3524,Florent,Ogier,Florent Ogier,Defender,Centre-Back,33,500000,Clermont Foot 63,ligue-1,18(8),1695.0,-,1,4,-,0.1,79.4,1.1,-,6.33
+817,210524,919515,273,Jeanuël,Belocian,Jeanuël Belocian,Defender,Centre-Back,17,500000,Stade Rennais FC,ligue-1,6(2),508.0,-,-,1,-,0.1,89.6,0.9,-,6.66
+819,43827,484988,415,Logan,Costa,Logan Costa,Defender,Centre-Back,21,400000,FC Toulouse,ligue-1,4(2),414.0,-,-,-,-,0.8,84.3,0.8,-,6.42
+820,339929,62351,1420,Abdoulaye,Bamba,Abdoulaye Bamba,Defender,Right-Back,32,400000,Angers SCO,ligue-1,12(9),1359.0,-,-,2,-,-,88.9,0.8,-,6.2
+823,260224,855014,415,Kévin,Keben,Kévin Keben,Defender,Centre-Back,18,400000,FC Toulouse,ligue-1,4(7),357.0,-,-,1,-,0.1,82.2,0.3,-,6.03
+830,56163,172153,1147,Mickaël,Alphonse,Mickaël Alphonse,Defender,Right-Back,33,300000,AC Ajaccio,ligue-1,14(12),1357.0,-,-,2,1,0.4,71.1,1.2,1,6.35
+835,309443,917120,1095,Tanguy,Zoukrou,Tanguy Zoukrou,Defender,Centre-Back,19,300000,ESTAC Troyes,ligue-1,5(3),509.0,-,-,-,-,-,87.1,0.9,-,6.37
+839,215916,51118,1095,Adil,Rami,Adil Rami,Defender,Centre-Back,37,300000,ESTAC Troyes,ligue-1,18(2),1600.0,-,1,2,-,0.5,85.1,1.5,-,6.41
+843,249158,44421,1147,Cédric,Avinel,Cédric Avinel,Defender,Centre-Back,36,300000,AC Ajaccio,ligue-1,19(5),1791.0,1,-,2,1,0.1,85.0,1.6,1,6.18
+849,285058,857482,3524,Baïla,Diallo,Baïla Diallo,Defender,Left-Back,21,250000,Clermont Foot 63,ligue-1,0(6),83.0,-,-,-,-,0.2,77.8,0.7,-,6.08
+852,189907,57482,1147,Mohamed,Youssouf,Mohamed Youssouf,Defender,Right-Back,34,200000,AC Ajaccio,ligue-1,27(3),2457.0,-,-,5,1,0.2,73.5,1.6,1,6.53
+858,378297,698678,543,Hugo,Bueno,Hugo Bueno,Defender,Left-Back,20,200000,Wolverhampton Wanderers,premier-league,16(5),1316.0,-,1,1,-,0.2,84.5,0.5,-,6.44
+859,141052,711980,273,Guéla,Doué,Guéla Doué,Defender,Right-Back,20,200000,Stade Rennais FC,ligue-1,0(2),10.0,-,-,-,-,0.5,90,0.5,-,6.07
+860,284323,569374,969,Thibault,Tamas,Thibault Tamas,Defender,Left-Back,21,200000,Montpellier HSC,ligue-1,0(1),9.0,-,-,-,-,-,83.3,-,-,6.04
+862,117626,891998,417,Antoine,Mendy,Antoine Mendy,Defender,Right-Back,18,150000,OGC Nice,ligue-1,7(4),520.0,-,1,-,-,0.7,83.6,0.6,-,6.52
+869,309371,820146,1421,Cheick,Keita,Cheick Keita,Defender,Centre-Back,19,100000,Stade Reims,ligue-1,8(1),688.0,-,-,1,-,0.3,87.4,1.0,-,6.65
+872,45242,807165,1158,Bamo,Meïté,Bamo Meïté,Defender,Centre-Back,21,100000,FC Lorient,ligue-1,17(1),1504.0,1,-,5,-,0.2,89.5,1.7,1,6.67
